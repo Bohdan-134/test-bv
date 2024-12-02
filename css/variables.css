@@ -1,0 +1,14 @@
+:root {
+    /* color */
+    --color-pink: #FF267E;
+    --color-gray: #E8E8E8;
+    --color-white: #FFFFFF;
+    --color-blue: #010155;
+    --color-blue-opacity: #474785;
+    --color-green: #05C489;
+
+    /* fonts */
+    --font-suisse-intl-regular: 'SuisseIntl', sans-serif;
+    --font-suisse-intl-semibold: 'SuisseIntl', sans-serif;
+    --font-wulkan-display-semibold-italic: 'WulkanDisplay', serif;
+}
